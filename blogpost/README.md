@@ -18,7 +18,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### Project Motivation
 
-As per Udacity Data Scientist Nanodegree project Term 2 project to write a Data science blogpost using CRISP-DM. I was intriguted to analyze and find business related questions about airbnb listings for Seattle city. This interest stem from being a frequent user of airbnb and a curious traveler that is  interested in knowning the trends in prices and what can affect.
+As writing a blogpost is a part of Udacity Data Scientist Nanodegree program using CRIP-DM methodology to apply the skills learnt from this nanodegree, I chose Seattle Airbnb lsitings data to get started with. 
 
 
 for more information refer to the medium blogpost for this project: [medium](https://medium.com/@rahuldas.rr.rd/things-to-remember-while-planning-a-trip-to-seattle-39955410421b?source=friends_link&sk=a420ad6a8db42dde9a63c96578d279de)
