@@ -58,7 +58,7 @@ After looking at the average monthly price of listings across the year, I compar
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `Write_BlogPost/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `blogpost/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook Seattle_Airbnb_Data_Analysis.ipynb
