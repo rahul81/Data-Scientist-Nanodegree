@@ -4,6 +4,8 @@
 
 In this project. I made use of the data engineering concepts to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
+This project consists of a ETL pipeline which extracts, cleans data  and load it in sql databases and a machine learning pipeine which trains a classifier to classify a given message into it's respective catogory.
+
 The datasets used contain real messages that were sent during disaster events. I created a machine learning pipline to categorize these event to reach out for a relevant relief agency.
 
 ### File Structure:
