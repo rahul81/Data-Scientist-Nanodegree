@@ -40,7 +40,7 @@ In this project we'll be performing the following tasks:
     - Build a machine learning model to train using training data
 
 ## File Descriptions <a name="files"></a>
-* Sparkify-Capstone-Project : Jputer notebook used for this project
+* Sparkify-Capstone-Project : Jupyter notebook used for this project
 
 
 ## Results<a name="results"></a>
